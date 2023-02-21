@@ -9,8 +9,8 @@ En este repositorio se encuentran todos los esqueletos de lo que se ha visto dur
 
 ## Stack de desarrollo
 
-Lenguaje: Python
-Base de Datos: MySQL 
-ORM: Alchemy
-Back-end: Flask
-Front-end: Angular
+```Lenguaje: Python```
+```Base de Datos: MySQL```
+```ORM: Alchemy```
+```Back-end: Flask```
+```Front-end: Angular```
